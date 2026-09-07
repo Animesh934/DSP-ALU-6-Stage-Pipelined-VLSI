@@ -49,10 +49,8 @@ This work has been accepted and presented at the **2026 IEEE 6th International C
 **IEEE Xplore:** [View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11584342)
 **DOI:** [10.1109/IC2PCT68894.2026.11584342](https://doi.org/10.1109/IC2PCT68894.2026.11584342)
 
-### **IEEE Copyright Notice**
-> © 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
-
 ---
+## License & Copyright
 
-## License
-The source code in this repository is licensed under the **MIT License**. See the `LICENSE` file for details.
+- **Source Code & Hardware Implementation:** Licensed under the [MIT License](LICENSE) © 2026 Abhishek Mohanty, Animesh Biswas, Dr. Sarita Nanda, Kananbala Ray.
+- **Publication & Documentation:** © 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
