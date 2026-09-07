@@ -50,7 +50,7 @@ This work has been accepted and presented at the **2026 IEEE 6th International C
 **DOI:** [10.1109/IC2PCT68894.2026.11584342](https://doi.org/10.1109/IC2PCT68894.2026.11584342)
 
 ### **IEEE Copyright Notice**
-© 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
+> © 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 
 ---
 
